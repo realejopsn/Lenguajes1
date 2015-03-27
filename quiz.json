@@ -1,0 +1,22 @@
+{
+	"nombre" : "Quiz Lenguajes #8761 ",
+	"preguntas" :
+		[
+			{
+				"enunciado" : "Cuál es su color favorito?",
+				"opciones" : ["rojo", "verde", "azul", "blanco"],
+				"correcta" : "0"
+			},
+			{
+				"enunciado" : "¿Cuánto es dos mas dos?",
+				"opciones" : ["1","2","3","4","5"],
+				"correcta" : "3"
+			},
+			{
+				"enunciado" : "¿Cuál fue el primer lenguaje de alto nivel?",
+				"opciones" : ["ADA","Fortran","Lips","Pascal"],
+				"correcta" : "1"
+			}
+		]
+
+}
